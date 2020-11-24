@@ -5,10 +5,8 @@ const fs = require('fs');
 const getImgName = (imgPath) => {
   return imgPath.split('.png')[0];
 };
-
 const imgPaths = [];
 fs.readdirSync('./assets').forEach((file) => {
-  console.log(file);
   imgPaths.push(file);
 });
 
