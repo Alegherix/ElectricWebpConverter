@@ -1,0 +1,13 @@
+{
+  "name": "WebbPConverter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.6",
+    "webp-converter": "^2.3.1"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
