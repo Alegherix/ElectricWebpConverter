@@ -1190,11 +1190,6 @@ util-deprecate@^1.0.1, util-deprecate@~1.0.1:
   resolved "https://registry.yarnpkg.com/util-deprecate/-/util-deprecate-1.0.2.tgz#450d4dc9fa70de732762fbd2d4a28981419a0ccf"
   integrity sha1-RQ1Nyfpw3nMnYvvS1KKJgUGaDM8=
 
-webp-converter@^2.3.1:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/webp-converter/-/webp-converter-2.3.1.tgz#394bbe0014634a46821c78bf126156e76a5e5b62"
-  integrity sha512-9Ql646Ha9+WiwtE1gGL3UlW+lQNscVXVoyQdThqpgSoi0WfyuqhParlbu5iOHFYWUimTYCOIwVYBZcDMAJfQ8A==
-
 which-pm-runs@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/which-pm-runs/-/which-pm-runs-1.0.0.tgz#670b3afbc552e0b55df6b7780ca74615f23ad1cb"
